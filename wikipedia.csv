@@ -1,0 +1,100 @@
+id,name,party,partyLabel,votes,election,electionLabel,ranking
+Q76364033,Chris Loder,Q9626,Conservative Party (UK),33589,Q30173038,General election 2019,1
+,Edward Morello,Q9624,Liberal Democrats (UK),19483,Q30173038,General election 2019,2
+,Claudia Sorin,Q9630,Labour Party (UK),5729,Q30173038,General election 2019,3
+,Kelvin Clayton,Q9669,Green Party of England and Wales,2124,Q30173038,General election 2019,4
+Q333480,Oliver Letwin,Q9626,Conservative Party (UK),33081,Q25052149,General election 2017,1
+,Andy Canning,Q9624,Liberal Democrats (UK),13990,Q25052149,General election 2017,2
+,Lee Rhodes,Q9630,Labour Party (UK),10896,Q25052149,General election 2017,3
+,Kelvin Clayton,Q9669,Green Party of England and Wales,1631,Q25052149,General election 2017,4
+Q333480,Oliver Letwin,Q9626,Conservative Party (UK),28329,Q3586935,General election 2015,1
+,Ros Kayes,Q9624,Liberal Democrats (UK),12199,Q3586935,General election 2015,2
+,David Glossop,Q10647,UK Independence Party,7055,Q3586935,General election 2015,3
+,Rachel Rogers,Q9630,Labour Party (UK),5633,Q3586935,General election 2015,4
+,Peter Barton,Q9669,Green Party of England and Wales,3242,Q3586935,General election 2015,5
+Q333480,Oliver Letwin,Q9626,Conservative Party (UK),27287,Q215622,General election 2010,1
+,Sue Farrant,Q9624,Liberal Democrats (UK),23364,Q215622,General election 2010,2
+,Steve Bick,Q9630,Labour Party (UK),3815,Q215622,General election 2010,3
+,Oliver Chisholm,Q10647,UK Independence Party,2196,Q215622,General election 2010,4
+,Susan Greene,Q9669,Green Party of England and Wales,675,Q215622,General election 2010,5
+Q333480,Oliver Letwin,Q9626,Conservative Party (UK),24763,Q428598,General election 2005,1
+,Justine McGuinness,Q9624,Liberal Democrats (UK),22302,Q428598,General election 2005,2
+,Dave Roberts,Q9630,Labour Party (UK),4124,Q428598,General election 2005,3
+,Linda Guest,Q10647,UK Independence Party,1084,Q428598,General election 2005,4
+,Susan Greene,Q9669,Green Party of England and Wales,952,Q428598,General election 2005,5
+Q333480,Oliver Letwin,Q9626,Conservative Party (UK),22126,Q590740,General election 2001,1
+,Simon Green,Q9624,Liberal Democrats (UK),20712,Q590740,General election 2001,2
+,Richard Hyde,Q9630,Labour Party (UK),6733,Q590740,General election 2001,3
+Q333480,Oliver Letwin,Q9626,Conservative Party (UK),22036,Q918503,General election 1997,1
+,Robin AS Legg,Q9624,Liberal Democrats (UK),20196,Q918503,General election 1997,2
+,Robert Bygraves,Q9630,Labour Party (UK),9491,Q918503,General election 1997,3
+,P. Jenkins,Q10647,United Kingdom Independence Party,1590,Q918503,General election 1997,4
+,Mark Griffiths,Q491782,Natural Law Party,239,Q918503,General election 1997,5
+Q6143449,James Spicer,Q9626,Conservative Party (UK),27766,Q543609,General election 1992,1
+,Robin A.S. Legg,Q9624,Liberal Democrats (UK),19756,Q543609,General election 1992,2
+,JPB Mann,Q9630,Labour Party (UK),7082,Q543609,General election 1992,3
+Q6143449,James Spicer,Q9626,Conservative Party (UK),28305,Q918472,General election 1987,1
+,Trevor Jones,Q622441,Liberal Party (UK),15941,Q918472,General election 1987,2
+,John Watson,Q9630,Labour Party (UK),6123,Q918472,General election 1987,3
+Q6143449,James Spicer,Q9626,Conservative Party (UK),27030,Q918466,General election 1983,1
+,Trevor Jones,Q622441,Liberal Party (UK),13078,Q918466,General election 1983,2
+,D Cash,Q9630,Labour Party (UK),5168,Q918466,General election 1983,3
+Q6143449,James Spicer,Q9626,Conservative Party (UK),26281,Q918450,General election 1979,1
+,Trevor Jones,Q622441,Liberal Party (UK),9776,Q918450,General election 1979,2
+,HJ Skevington,Q9630,Labour Party (UK),7999,Q918450,General election 1979,3
+,J Tillotson,Q158093,National Front (UK),514,Q918450,General election 1979,4
+,G McEwan,Q7984149,Wessex Regionalist Party,192,Q918450,General election 1979,5
+Q6143449,James Spicer,Q9626,Conservative Party (UK),20517,Q918508,General election October 1974,1
+,RM Angus,Q622441,Liberal Party (UK),11832,Q918508,General election October 1974,2
+,PJ Dawe,Q9630,Labour Party (UK),9350,Q918508,General election October 1974,3
+Q6143449,James Spicer,Q9626,Conservative Party (UK),21634,Q119524,General election February 1974,1
+,R Angus,Q622441,Liberal Party (UK),14183,Q119524,General election February 1974,2
+,MF Cross,Q9630,Labour Party (UK),8333,Q119524,General election February 1974,3
+Q7520070,Simon Wingfield Digby,Q9626,Conservative Party (UK),21081,Q918442,General election 1970,1
+,George Sakwa,Q9630,Labour Party (UK),10536,Q918442,General election 1970,2
+,Allan Percival,Q622441,Liberal Party (UK),7314,Q918442,General election 1970,3
+Q7520070,Simon Wingfield Digby,Q9626,Conservative Party (UK),17709,Q918430,General election 1966,1
+,F Donald Shirreff,Q9630,Labour Party (UK),11757,Q918430,General election 1966,2
+,Michael Aza Pinney,Q622441,Liberal Party (UK),7676,Q918430,General election 1966,3
+Q7520070,Simon Wingfield Digby,Q9626,Conservative Party (UK),17841,Q220208,General election 1964,1
+,Leslie William King,Q9630,Labour Party (UK),10631,Q220208,General election 1964,2
+,Michael Aza Pinney,Q622441,Liberal Party (UK),8242,Q220208,General election 1964,3
+Q7520070,Simon Wingfield Digby,Q9626,Conservative Party (UK),19747,Q918420,General election 1959,1
+,Leslie William King,Q9630,Labour Party (UK),11536,Q918420,General election 1959,2
+,John H. Goodden,Q622441,Liberal Party (UK),4850,Q918420,General election 1959,3
+Q7520070,Simon Wingfield Digby,Q9626,Conservative Party (UK),21007,Q918412,General election 1955,1
+,Leslie William King,Q9630,Labour Party (UK),14244,Q918412,General election 1955,2
+Q7520070,Simon Wingfield Digbyy,Q9626,Conservative Party (UK),21739,Q3722280,General election 1951,1
+,Cambreth John Kane,Q9630,Labour Party (UK),14308,Q3722280,General election 1951,2
+Q7520070,Simon Wingfield Digby,Q9626,Conservative Party (UK),18771,Q748667,General election 1950,1
+,Cambreth John Kane,Q9630,Labour Party (UK),11967,Q748667,General election 1950,2
+,Colin Grant Cameron,Q622441,Liberal Party (UK),5531,Q748667,General election 1950,3
+Q7520070,Simon Wingfield Digby,Q9626,Conservative Party (UK),13399,Q918397,General election 1945,1
+,Cambreth John Kane,Q9630,Labour Party (UK),8215,Q918397,General election 1945,2
+Q16012850,George Newsom,Q622441,Liberal Party (UK),5098,Q918397,General election 1945,3
+Q7520070,Simon Wingfield Digby,Q9626,Conservative Party (UK),"",Q16908508,1941 West Dorset by-election,1
+Q7528477,Philip Colfox,Q9626,Conservative Party (UK),13825,Q918378,General election 1935,1
+,George Edwin Chappell,Q622441,Liberal Party (UK),11735,Q918378,General election 1935,2
+Q7528477,Philip Colfox,Q9626,Conservative Party (UK),15510,Q918375,General election 1931,1
+,George Edwin Chappell,Q622441,Liberal Party (UK),10271,Q918375,General election 1931,2
+Q7528477,Philip Colfox,Q9626,Unionist Party (UK),12247,Q517639,General election 1929,1
+,George Edwin Chappell,Q622441,Liberal Party (UK),7921,Q517639,General election 1929,2
+,Thomas Robins,Q9630,Labour Party (UK),4770,Q517639,General election 1929,3
+Q7528477,Philip Colfox,Q9626,Unionist Party (UK),12426,Q2632991,General election 1924,1
+Q95476723,Louie Simpson,Q9630,Labour Party (UK),5764,Q2632991,General election 1924,2
+Q7528477,Philip Colfox,Q9626,Unionist Party (UK),10100,Q3084294,General election 1923,1
+Q95476723,Louie Simpson,Q9630,Labour Party (UK),7087,Q3084294,General election 1923,2
+Q7528477,Philip Colfox,Q9626,Unionist Party (UK),11649,Q3084303,General election 1922,1
+,T C Duke,Q9630,Labour Party (UK),7101,Q3084303,General election 1922,2
+Q7528866,Robert Williams,Q9626,Conservative Party (UK),4011,Q3075752,General election January 1910,1
+,William Saunders Edwards,Q622441,Liberal Party (UK),2759,Q3075752,General election January 1910,2
+Q7528866,Robert Williams,Q9626,Conservative Party (UK),3671,Q3076606,General election 1906,1
+,Johnstone J Haye,Q622441,Liberal Party (UK),2834,Q3076606,General election 1906,2
+Q7528866,Robert Williams,Q9626,Conservative Party (UK),3538,Q23461963,1895 West Dorset by-election,1
+,George Wood Homer,,Independent Farmers,2325,Q23461963,1895 West Dorset by-election,2
+Q5727518,Henry Farquharson,Q9626,Conservative Party (UK),3691,Q7888018,General election 1892,1
+Q29050614,Charles Tindal Gatty,Q622441,Liberal Party (UK),2813,Q7888018,General election 1892,2
+Q5727518,Henry Farquharson,Q9626,Conservative Party (UK),3672,Q7888016,General election 1886,1
+,Herbert Carey George Batten,Q622441,Liberal Party (UK),2467,Q7888016,General election 1886,2
+Q5727518,Henry Farquharson,Q9626,Conservative Party (UK),3507,Q3397257,General election 1885,1
+,Herbert Carey George Batten,Q622441,Liberal Party (UK),3366,Q3397257,General election 1885,2
