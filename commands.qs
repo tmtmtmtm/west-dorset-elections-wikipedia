@@ -20,12 +20,7 @@ LAST	P3602	Q3722280	P768	Q874545	P102	Q9630	P1111	14308	P1352	2	S4656	"https://e
 LAST	P3602	Q918397	P768	Q874545	P102	Q9630	P1111	8215	P1352	2	S4656	"https://en.wikipedia.org/wiki/West_Dorset_(UK_Parliament_constituency)"
 Q29050614	P3602	Q7888018	P768	Q874545	P102	Q622441	P1111	2813	P1352	2	S4656	"https://en.wikipedia.org/wiki/West_Dorset_(UK_Parliament_constituency)"
 Q76364033	P3602	Q30173038	P768	Q874545	P102	Q9626	P1111	33589	P1352	1	S4656	"https://en.wikipedia.org/wiki/West_Dorset_(UK_Parliament_constituency)"
-CREATE
-LAST	P31	Q5
-LAST	Len	"Claudia Sorin"
-LAST	Den	"UK election candidate"
-LAST	P106	Q19772737
-LAST	P3602	Q30173038	P768	Q874545	P102	Q9630	P1111	5729	P1352	3	S4656	"https://en.wikipedia.org/wiki/West_Dorset_(UK_Parliament_constituency)"
+Q76363258	P3602	Q30173038	P768	Q874545	P102	Q9630	P1111	5729	P1352	3	S4656	"https://en.wikipedia.org/wiki/West_Dorset_(UK_Parliament_constituency)"
 CREATE
 LAST	P31	Q5
 LAST	Len	"Colin Grant Cameron"
@@ -142,13 +137,8 @@ LAST	Len	"Justine McGuinness"
 LAST	Den	"UK election candidate"
 LAST	P106	Q19772737
 LAST	P3602	Q428598	P768	Q874545	P102	Q9624	P1111	22302	P1352	2	S4656	"https://en.wikipedia.org/wiki/West_Dorset_(UK_Parliament_constituency)"
-CREATE
-LAST	P31	Q5
-LAST	Len	"Kelvin Clayton"
-LAST	Den	"UK election candidate"
-LAST	P106	Q19772737
-LAST	P3602	Q25052149	P768	Q874545	P102	Q9669	P1111	1631	P1352	4	S4656	"https://en.wikipedia.org/wiki/West_Dorset_(UK_Parliament_constituency)"
-LAST	P3602	Q30173038	P768	Q874545	P102	Q9669	P1111	2124	P1352	4	S4656	"https://en.wikipedia.org/wiki/West_Dorset_(UK_Parliament_constituency)"
+Q75975057	P3602	Q25052149	P768	Q874545	P102	Q9669	P1111	1631	P1352	4	S4656	"https://en.wikipedia.org/wiki/West_Dorset_(UK_Parliament_constituency)"
+Q75975057	P3602	Q30173038	P768	Q874545	P102	Q9669	P1111	2124	P1352	4	S4656	"https://en.wikipedia.org/wiki/West_Dorset_(UK_Parliament_constituency)"
 CREATE
 LAST	P31	Q5
 LAST	Len	"Lee Rhodes"

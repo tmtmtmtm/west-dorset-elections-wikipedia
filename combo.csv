@@ -1,12 +1,12 @@
 foundid,id,name,party,partyLabel,votes,election,electionLabel,ranking
 ,Q76364033,Chris Loder,Q9626,Conservative Party (UK),33589,Q30173038,General election 2019,1
 Q75839059,,Edward Morello,Q9624,Liberal Democrats (UK),19483,Q30173038,General election 2019,2
-,,Claudia Sorin,Q9630,Labour Party (UK),5729,Q30173038,General election 2019,3
-,,Kelvin Clayton,Q9669,Green Party of England and Wales,2124,Q30173038,General election 2019,4
+Q76363258,,Claudia Sorin,Q9630,Labour Party (UK),5729,Q30173038,General election 2019,3
+Q75975057,,Kelvin Clayton,Q9669,Green Party of England and Wales,2124,Q30173038,General election 2019,4
 ,Q333480,Oliver Letwin,Q9626,Conservative Party (UK),33081,Q25052149,General election 2017,1
 ,,Andy Canning,Q9624,Liberal Democrats (UK),13990,Q25052149,General election 2017,2
 ,,Lee Rhodes,Q9630,Labour Party (UK),10896,Q25052149,General election 2017,3
-,,Kelvin Clayton,Q9669,Green Party of England and Wales,1631,Q25052149,General election 2017,4
+Q75975057,,Kelvin Clayton,Q9669,Green Party of England and Wales,1631,Q25052149,General election 2017,4
 ,Q333480,Oliver Letwin,Q9626,Conservative Party (UK),28329,Q3586935,General election 2015,1
 ,,Ros Kayes,Q9624,Liberal Democrats (UK),12199,Q3586935,General election 2015,2
 ,,David Glossop,Q10647,UK Independence Party,7055,Q3586935,General election 2015,3
